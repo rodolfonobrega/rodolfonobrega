@@ -2,18 +2,20 @@
 
 **Machine Learning Engineer @ Nubank** · São Paulo, Brazil
 
-<img align="right" src="https://media1.tenor.com/m/iyQAXC6OT-wAAAAd/capybara-cute.gif" width="120" />
-
 Working on Foundation Models, AI Agents, Fine-tuning, Embeddings, and LLM scaling.
 
-Previously Data Engineer at Olivia AI (acquired by Nubank). Coding since 14. Civil Engineering → Data/ML transition.
+Previously Data Engineer at Olivia AI (acquired by Nubank). Coding since 14. Working with AI/ML since 2018. Civil Engineering → Data/ML transition.
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-nobrega/)
 [![Professional](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rodolfo-nobrega/)
 
----
+<br>
+
+<div align="right">
+  <img src="https://media1.tenor.com/m/iyQAXC6OT-wAAAAd/capybara-cute.gif" width="100" />
+</div>
 
 ![Rodolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodolfonobrega&show_icons=true&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rodolfonobrega&layout=compact&theme=dracula&hide_border=true)
