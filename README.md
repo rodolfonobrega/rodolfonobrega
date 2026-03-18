@@ -30,4 +30,4 @@ Previously Data Engineer at Olivia AI (acquired by Nubank). Coding since 14. Wor
 
 ---
 
-![Snake](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg)
+![Snake](./assets/snake.svg)
