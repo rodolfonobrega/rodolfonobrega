@@ -6,17 +6,11 @@ Working on Foundation Models, AI Agents, Fine-tuning, Embeddings, and LLM scalin
 
 Previously Data Engineer at Olivia AI (acquired by Nubank). Coding since 14. Working with AI/ML since 2018. Civil Engineering → Data/ML transition.
 
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-nobrega/)
 [![Professional](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rodolfo-nobrega/)
 
----
-
 ![Rodolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodolfonobrega&show_icons=true&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rodolfonobrega&layout=compact&theme=dracula&hide_border=true)
-
----
 
 ### Tech Stack
 
@@ -27,7 +21,5 @@ Previously Data Engineer at Olivia AI (acquired by Nubank). Coding since 14. Wor
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-
----
 
 ![Snake](./assets/snake.svg)
